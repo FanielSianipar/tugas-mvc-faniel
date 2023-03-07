@@ -48,7 +48,7 @@
             <br>
 
             <h3>Tabel</h3>
-            <table class="table table-bordered" style="width: 500px">
+            <table class="table table-bordered" style="width: 800px">
                 <thead class="table table-primary" style="text-align: center">
                     <tr>
                         <th scope="col">id</th>
